@@ -12,7 +12,7 @@ iv) Rotate and display the video
 ## Software Used
 Anaconda - Python 3.7
 ## Algorithm
-### Step 1:\
+### Step 1:
 Use VideoCapture(0) to access web camera
 
 ### Step 2:
